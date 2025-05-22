@@ -1,1 +1,1 @@
-# git-conflict-challenge
+HELLO, C'EST JUSTE UN TEST :)
